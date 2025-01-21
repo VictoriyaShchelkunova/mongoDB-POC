@@ -1,0 +1,4 @@
+[submodule "submodule"]
+	path = submodule
+	url = https://github.com/VictoriyaShchelkunova/mongoDB-POC.git
+	branch = submodule
